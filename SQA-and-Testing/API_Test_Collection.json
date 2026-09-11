@@ -1,0 +1,40 @@
+{
+	"info": {
+		"name": "ReqRes API Automated Tests",
+		"description": "SQA Portfolio API Collection testing REST endpoints (GET, POST) with response status and JSON schema assertions.",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Get User List",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://reqres.in/api/users?page=2",
+					"protocol": "https",
+					"host": ["reqres", "in"],
+					"path": ["api", "users"],
+					"query": [{"key": "page", "value": "2"}]
+				}
+			}
+		},
+		{
+			"name": "Create User",
+			"request": {
+				"method": "POST",
+				"header": [{"key": "Content-Type", "value": "application/json"}],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"name\": \"Humna Zahid\",\n    \"job\": \"SQA Engineer\"\n}"
+				},
+				"url": {
+					"raw": "https://reqres.in/api/users",
+					"protocol": "https",
+					"host": ["reqres", "in"],
+					"path": ["api", "users"]
+				}
+			}
+		}
+	]
+}
