@@ -8,26 +8,21 @@ Software Engineering graduate specializing in **Software Quality Assurance (SQA)
 
 ---
 
-## 📂 SQA & BD Portfolio Directory
+## 📂 Portfolio Directory
 
 All testing artifacts, BD projects, and case studies are organized in their respective folders:
 
 👉 **[View SQA Projects Folder](./SQA-and-Testing/)**
-
 * **Manual Testing:** Test Scenarios, Test Cases, and Bug Reports.
 * **API Testing:** Postman Collections with JSON assertions and status validations.
 * **Automation Testing:** Python Selenium scripts using Pytest framework.
 * **Defect Management:** Jira (Agile/Scrum) workflows and bug tracking.
 
----
-
-## 🚀 Business Development & Growth Strategy
-
-Expanding technical QA proficiency into B2B client acquisition and agency scaling strategies:
-
-* **Mini BD Capstone Project:** SQA Agency Growth & Client Acquisition Strategy targeting US/UK SaaS leads.
-* **Lead Generation & Qualification:** Ideal Customer Profile (ICP) building, Apollo.io/LinkedIn prospecting, and BANT qualification framework.
-* **Outreach & CRM:** 14-day multi-channel cold outreach campaigns and HubSpot CRM pipeline management.
+👉 **[View BD Projects Folder](./Business-Development/)**
+* **BD Strategy & Growth Plan:** SQA Agency Client Acquisition Strategy targeting US/UK SaaS leads.
+* **Lead Generation & Prospecting:** ICP building, Apollo.io/LinkedIn prospecting lists, and BANT qualification framework.
+* **Cold Outreach Campaigns:** 14-day multi-channel cold email and LinkedIn message templates.
+* **CRM & Sales Operations:** HubSpot CRM pipeline configuration, deal stages, and sales tracking.
 
 ---
 
