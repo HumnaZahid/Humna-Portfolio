@@ -1,4 +1,4 @@
-# 🚀 Business Development & Growth Strategy Projects
+# Business Development & Growth Strategy Projects
 
 This directory contains my Business Development (BD) capstone projects, combining Software Quality Assurance (SQA) technical knowledge with B2B client acquisition, lead generation, and sales pipeline management.
 
