@@ -24,12 +24,11 @@ All testing artifacts, BD projects, and case studies are organized in their resp
 * **Cold Outreach Campaigns:** 14-day multi-channel cold email and LinkedIn message templates.
 * **CRM & Sales Operations:** HubSpot CRM pipeline configuration, deal stages, and sales tracking.
 
-👉 **Digital Marketing Case Studies**
-* **[30-Day Integrated Digital Marketing Campaign](./Complete%20Digital%20Marketing%20Campaign%20Strategy.pdf):** 30-day strategy covering buyer personas, 10-day content calendar, SEO keyword mapping, ad concepts, and email outreach.
-* **[Social Media Marketing Project](./Social%20Media%20Marketing%20Project.pdf):** Organic content strategy for B2B SaaS featuring content pillars, 7-day calendar, copywriting samples, and design mockups.
-* **[SEO Keyword Research Case Study](./SEO%20Keyword%20Research%20Case%20Study.pdf):** Site audit and 12-keyword strategy matrix for Grammarly based on search intent and target landing pages.
-* **[Digital Marketing Internship Capstone Project](./Digital%20Marketing%20Final%20Internship%20Project.pdf):** 360° marketing blueprint including social schedule, SEO matrix, B2B email script, and paid campaign structure.
-
+👉 **[View Digital Marketing Folder](./Digital-Marketing/)**
+* **30-Day Integrated Campaign:** Full-funnel digital strategy for B2B SaaS, including buyer personas, 10-day content calendar, and paid ad structures.
+* **Social Media Strategy & Content Plan:** 7-day multi-channel calendar, core content pillars, copywriting samples for LinkedIn/X, and Canva visual mockups.
+* **SEO Audit & Keyword Research:** On-page SEO observations, 12-keyword search intent matrix, and topic cluster growth strategies.
+* **Internship Capstone Strategy:** 360° marketing blueprint featuring B2B cold outreach scripts, Meta/Google ad structures, and KPI performance tracking.
 ---
 
 ## 🛠️ Core Skills
